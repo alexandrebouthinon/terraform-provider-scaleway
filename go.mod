@@ -9,10 +9,9 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.8.0
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.7.0.20210804084528-d11825fe1059
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.5
 	golang.org/x/tools v0.1.6 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
 
 go 1.13
